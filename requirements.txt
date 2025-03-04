@@ -1,0 +1,9 @@
+flask
+pandas
+requests
+beautifulsoup4
+lxml
+rapidfuzz
+jellyfish
+openpyxl
+PyMuPDF
